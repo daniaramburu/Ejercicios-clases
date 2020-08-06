@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap%27);
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap%27');
 
 .contenedor {
     background-color: palevioletred;
@@ -12,7 +12,6 @@
 h1 { 
     font-size: 40px;
     text-align: center;
-
 }
 
 @media (max-width:900px) and (min-width:600px)
