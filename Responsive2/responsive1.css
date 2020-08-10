@@ -1,0 +1,52 @@
+*{
+    margin:0;
+}
+
+
+.nav {
+    background-color: lavenderblush;
+    height:40px ;
+}
+
+.nav-list{
+    display: flex;
+    list-style-type:none;
+    align-items: center;
+    height: 40px;
+    justify-content: flex-end;
+
+}
+.nav-list li {
+    font-family: '', sans-serif;
+    font-size: 15px;
+    margin-right: 25px;
+
+}
+a {
+    text-decoration: none;
+    color: coral;
+}
+
+.sobre-mi {
+    height: 100px;
+    background-color: plum;
+}
+.proyectos {
+    height: 100px;
+    background-color: rosybrown;
+}
+
+.contacto {
+    height: 100px;
+    background-color: sandybrown;
+}
+
+footer {
+    background-color: silver;
+}
+
+@media (max-width:600px) {
+    .nav-list {
+        display: none;
+    }
+}
