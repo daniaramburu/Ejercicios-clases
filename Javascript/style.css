@@ -1,0 +1,17 @@
+.principal {
+  display: inline-block;
+  box-sizing: border-box;
+}
+
+.principal {
+}
+.caja {
+  color: #2e2e31;
+  padding: 40px 20px;
+  background-color: #fff;
+  border: 1px solid #dddfe5;
+  border-radius: 8px;
+  width: 260px;
+  margin: 10px;
+  padding: 30px;
+}
